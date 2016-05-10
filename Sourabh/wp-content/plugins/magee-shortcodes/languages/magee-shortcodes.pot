@@ -1,0 +1,2128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Magee Shortcodes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-21 16:23+0800\n"
+"PO-Revision-Date: 2016-01-21 16:23+0800\n"
+"Last-Translator: shijun quan <support@mageewp.com>\n"
+"Language-Team: MageeWP\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.6.6\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/core.php:88 inc/core.php:91
+msgid "Magee Shortcodes"
+msgstr ""
+
+#: inc/core.php:235
+msgid "Shortcodes List"
+msgstr ""
+
+#: inc/core.php:235
+msgid "Insert shortcode"
+msgstr ""
+
+#: inc/core.php:436
+msgid "Upload"
+msgstr ""
+
+#: inc/core.php:453
+msgid "Attach Images to Gallery"
+msgstr ""
+
+#: inc/core.php:517 inc/options.php:563
+msgid "Width"
+msgstr ""
+
+#: inc/core.php:521 inc/options.php:2003
+msgid "Height"
+msgstr ""
+
+#: inc/core.php:563
+msgid "Select a slider"
+msgstr ""
+
+#: inc/magee-slider.php:8
+msgid "Magee Slider"
+msgstr ""
+
+#: inc/magee-slider.php:10
+msgid "Add New Slider"
+msgstr ""
+
+#: inc/magee-slider.php:11
+msgid "Edit Slider"
+msgstr ""
+
+#: inc/magee-slider.php:12
+msgid "New Slider"
+msgstr ""
+
+#: inc/magee-slider.php:15
+msgid "Search Slider"
+msgstr ""
+
+#: inc/magee-slider.php:16
+msgid "Nothing found"
+msgstr ""
+
+#: inc/magee-slider.php:17
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: inc/magee-slider.php:119
+msgid "Slide Title"
+msgstr ""
+
+#: inc/magee-slider.php:121
+msgid "Slide Caption"
+msgstr ""
+
+#: inc/magee-slider.php:123
+msgid "Sort"
+msgstr ""
+
+#: inc/magee-slider.php:124
+msgid "Delete"
+msgstr ""
+
+#: inc/magee-slider.php:130
+msgid "Use the button above to add Slides !"
+msgstr ""
+
+#: inc/magee-slider.php:158 inc/options.php:500 inc/options.php:696
+#: inc/options.php:1016 inc/options.php:1484 inc/options.php:2076
+#: inc/options.php:2181
+msgid "Title"
+msgstr ""
+
+#: inc/magee-slider.php:159
+msgid "Number of Slides"
+msgstr ""
+
+#: inc/magee-slider.php:160
+msgid "Date"
+msgstr ""
+
+#: inc/options.php:9 inc/options.php:10 inc/options.php:11 inc/options.php:12
+#: inc/options.php:510 inc/options.php:1225 inc/options.php:1246
+#: inc/options.php:1782
+msgid "Yes"
+msgstr ""
+
+#: inc/options.php:9 inc/options.php:10 inc/options.php:11 inc/options.php:12
+#: inc/options.php:509 inc/options.php:1224 inc/options.php:1245
+#: inc/options.php:1783
+msgid "No"
+msgstr ""
+
+#: inc/options.php:11 inc/options.php:12 inc/options.php:233
+msgid "Default"
+msgstr ""
+
+#: inc/options.php:13 inc/options.php:14 inc/options.php:571
+#: inc/options.php:778 inc/options.php:1385 inc/options.php:1430
+#: inc/options.php:1646 inc/options.php:2020
+msgid "Left"
+msgstr ""
+
+#: inc/options.php:13 inc/options.php:14 inc/options.php:779
+#: inc/options.php:1386 inc/options.php:1431 inc/options.php:1647
+#: inc/options.php:2021
+msgid "Right"
+msgstr ""
+
+#: inc/options.php:14 inc/options.php:572 inc/options.php:1919
+msgid "Center"
+msgstr ""
+
+#: inc/options.php:50 inc/options.php:162 inc/options.php:306
+#: inc/options.php:358 inc/options.php:400 inc/options.php:436
+#: inc/options.php:518 inc/options.php:610 inc/options.php:659
+#: inc/options.php:853 inc/options.php:945 inc/options.php:989
+#: inc/options.php:1086 inc/options.php:1134 inc/options.php:1184
+#: inc/options.php:1257 inc/options.php:1326 inc/options.php:1393
+#: inc/options.php:1452 inc/options.php:1596 inc/options.php:1693
+#: inc/options.php:1728 inc/options.php:1806 inc/options.php:1852
+#: inc/options.php:1931 inc/options.php:2039 inc/options.php:2110
+#: inc/options.php:2145 inc/options.php:2224 inc/options.php:2416
+msgid "CSS Class"
+msgstr ""
+
+#: inc/options.php:51 inc/options.php:163 inc/options.php:307
+#: inc/options.php:359 inc/options.php:401 inc/options.php:437
+#: inc/options.php:519 inc/options.php:611 inc/options.php:660
+#: inc/options.php:854 inc/options.php:946 inc/options.php:990
+#: inc/options.php:1087 inc/options.php:1135 inc/options.php:1185
+#: inc/options.php:1258 inc/options.php:1327 inc/options.php:1394
+#: inc/options.php:1453 inc/options.php:1597 inc/options.php:1694
+#: inc/options.php:1729 inc/options.php:1807 inc/options.php:1853
+#: inc/options.php:1932 inc/options.php:2040 inc/options.php:2111
+#: inc/options.php:2146 inc/options.php:2225 inc/options.php:2417
+msgid "Add a class to the wrapping HTML element."
+msgstr ""
+
+#: inc/options.php:56 inc/options.php:168 inc/options.php:312
+#: inc/options.php:364 inc/options.php:406 inc/options.php:442
+#: inc/options.php:524 inc/options.php:616 inc/options.php:665
+#: inc/options.php:859 inc/options.php:951 inc/options.php:995
+#: inc/options.php:1092 inc/options.php:1140 inc/options.php:1190
+#: inc/options.php:1263 inc/options.php:1332 inc/options.php:1399
+#: inc/options.php:1458 inc/options.php:1602 inc/options.php:1699
+#: inc/options.php:1812 inc/options.php:1858 inc/options.php:1937
+#: inc/options.php:2045 inc/options.php:2151 inc/options.php:2230
+#: inc/options.php:2422
+msgid "CSS ID"
+msgstr ""
+
+#: inc/options.php:57 inc/options.php:169 inc/options.php:313
+#: inc/options.php:365 inc/options.php:407 inc/options.php:443
+#: inc/options.php:525 inc/options.php:617 inc/options.php:666
+#: inc/options.php:860 inc/options.php:952 inc/options.php:996
+#: inc/options.php:1093 inc/options.php:1141 inc/options.php:1191
+#: inc/options.php:1264 inc/options.php:1333 inc/options.php:1400
+#: inc/options.php:1459 inc/options.php:1603 inc/options.php:1700
+#: inc/options.php:1813 inc/options.php:1859 inc/options.php:1938
+#: inc/options.php:2046 inc/options.php:2152 inc/options.php:2231
+#: inc/options.php:2423
+msgid "Add an ID to the wrapping HTML element."
+msgstr ""
+
+#: inc/options.php:62 inc/options.php:1021 inc/options.php:1621
+#: inc/options.php:1831
+msgid "Style"
+msgstr ""
+
+#: inc/options.php:65 inc/options.php:1834
+msgid "Simple Style"
+msgstr ""
+
+#: inc/options.php:66
+msgid "Boxed Style"
+msgstr ""
+
+#: inc/options.php:71
+msgid "Type"
+msgstr ""
+
+#: inc/options.php:75
+msgid "Type 1"
+msgstr ""
+
+#: inc/options.php:76
+msgid "Type 2"
+msgstr ""
+
+#: inc/options.php:82
+msgid "Accordion Items"
+msgstr ""
+
+#: inc/options.php:83
+msgid "Insert accordion items shortcode."
+msgstr ""
+
+#: inc/options.php:88
+msgid "Accordion Shortcode"
+msgstr ""
+
+#: inc/options.php:104 inc/options.php:556 inc/options.php:602
+#: inc/options.php:719 inc/options.php:1115 inc/options.php:1210
+#: inc/options.php:1756
+msgid "Icon"
+msgstr ""
+
+#: inc/options.php:105 inc/options.php:292 inc/options.php:467
+#: inc/options.php:603 inc/options.php:720 inc/options.php:1116
+#: inc/options.php:1211 inc/options.php:1536 inc/options.php:1548
+#: inc/options.php:1560 inc/options.php:1572 inc/options.php:1584
+#: inc/options.php:1681 inc/options.php:1757
+msgid "Click an icon to select, click again to deselect."
+msgstr ""
+
+#: inc/options.php:110
+msgid "Warning! Better check yourself, you're not looking too good."
+msgstr ""
+
+#: inc/options.php:112
+msgid "Alert Content"
+msgstr ""
+
+#: inc/options.php:113
+msgid "Insert the content for the alert."
+msgstr ""
+
+#: inc/options.php:119 inc/options.php:970 inc/options.php:2250
+msgid "Background Color"
+msgstr ""
+
+#: inc/options.php:120
+msgid "Set background color for alert box."
+msgstr ""
+
+#: inc/options.php:125 inc/options.php:285
+msgid "Text Color"
+msgstr ""
+
+#: inc/options.php:126
+msgid "Set content color & border color for alert box."
+msgstr ""
+
+#: inc/options.php:133 inc/options.php:224 inc/options.php:1080
+#: inc/options.php:1637
+msgid "Border Width"
+msgstr ""
+
+#: inc/options.php:134 inc/options.php:141 inc/options.php:977
+#: inc/options.php:2217 inc/options.php:2302 inc/options.php:2337
+#: inc/options.php:2343 inc/options.php:2349 inc/options.php:2355
+msgid "In pixels (px), eg: 1px."
+msgstr ""
+
+#: inc/options.php:140 inc/options.php:976 inc/options.php:2216
+msgid "Border Radius"
+msgstr ""
+
+#: inc/options.php:147
+msgid "Box Shadow"
+msgstr ""
+
+#: inc/options.php:148
+msgid "Display a box shadow for alert."
+msgstr ""
+
+#: inc/options.php:154
+msgid "Dismissable"
+msgstr ""
+
+#: inc/options.php:155
+msgid "The alert box is dismissable."
+msgstr ""
+
+#: inc/options.php:173
+msgid "Alert Shortcode"
+msgstr ""
+
+#: inc/options.php:188 inc/options.php:1836
+msgid "Button Style"
+msgstr ""
+
+#: inc/options.php:189
+msgid "Select the button's default style."
+msgstr ""
+
+#: inc/options.php:191 inc/options.php:548 inc/options.php:1791
+#: inc/options.php:1890
+msgid "Normal"
+msgstr ""
+
+#: inc/options.php:192
+msgid "Dark"
+msgstr ""
+
+#: inc/options.php:193
+msgid "Light"
+msgstr ""
+
+#: inc/options.php:194
+msgid "2d"
+msgstr ""
+
+#: inc/options.php:195
+msgid "3d"
+msgstr ""
+
+#: inc/options.php:196
+msgid "Line"
+msgstr ""
+
+#: inc/options.php:197
+msgid "Line Dark"
+msgstr ""
+
+#: inc/options.php:198
+msgid "Line Light"
+msgstr ""
+
+#: inc/options.php:205
+msgid "Button URL"
+msgstr ""
+
+#: inc/options.php:206
+msgid "Add the button's url eg: http://example.com."
+msgstr ""
+
+#: inc/options.php:211
+msgid "Button Size"
+msgstr ""
+
+#: inc/options.php:212
+msgid "Select the button's size."
+msgstr ""
+
+#: inc/options.php:214 inc/options.php:1302
+msgid "Small"
+msgstr ""
+
+#: inc/options.php:215
+msgid "Medium"
+msgstr ""
+
+#: inc/options.php:216 inc/options.php:1304
+msgid "Large"
+msgstr ""
+
+#: inc/options.php:217
+msgid "XLarge"
+msgstr ""
+
+#: inc/options.php:225
+msgid "In pixels (px), default: 2px."
+msgstr ""
+
+#: inc/options.php:230
+msgid "Button Shape"
+msgstr ""
+
+#: inc/options.php:231
+msgid "Select the button's shape. Choose default for theme option selection."
+msgstr ""
+
+#: inc/options.php:234 inc/options.php:1237
+msgid "Square"
+msgstr ""
+
+#: inc/options.php:235 inc/options.php:1793 inc/options.php:1970
+msgid "Rounded"
+msgstr ""
+
+#: inc/options.php:236
+msgid "Full Rounded"
+msgstr ""
+
+#: inc/options.php:241
+msgid "Text Shadow"
+msgstr ""
+
+#: inc/options.php:242
+msgid "Display shadow for button text."
+msgstr ""
+
+#: inc/options.php:247
+msgid "Gradient"
+msgstr ""
+
+#: inc/options.php:248
+msgid "Display gradient for button."
+msgstr ""
+
+#: inc/options.php:253
+msgid "Block Button"
+msgstr ""
+
+#: inc/options.php:254
+msgid "Display in full width."
+msgstr ""
+
+#: inc/options.php:260
+msgid "Button Target"
+msgstr ""
+
+#: inc/options.php:261
+msgid "_self = open in same window <br />_blank = open in new window."
+msgstr ""
+
+#: inc/options.php:269 inc/options.php:1669
+msgid "Button Text"
+msgstr ""
+
+#: inc/options.php:271
+msgid "Button's Text"
+msgstr ""
+
+#: inc/options.php:272
+msgid "Add the text that will display in the button."
+msgstr ""
+
+#: inc/options.php:277
+msgid "Set background color for button."
+msgstr ""
+
+#: inc/options.php:278 inc/options.php:1662
+msgid "Button Color"
+msgstr ""
+
+#: inc/options.php:286
+msgid "Set content color & border color for button."
+msgstr ""
+
+#: inc/options.php:291 inc/options.php:1680
+msgid "Button Icon"
+msgstr ""
+
+#: inc/options.php:298
+msgid "Icon Animation Type"
+msgstr ""
+
+#: inc/options.php:299
+msgid "Select the type of animation to use on the button icon."
+msgstr ""
+
+#: inc/options.php:317
+msgid "Button Shortcode"
+msgstr ""
+
+#: inc/options.php:331
+msgid "Column Style"
+msgstr ""
+
+#: inc/options.php:332
+msgid "Select the size of column."
+msgstr ""
+
+#: inc/options.php:334
+msgid "1/1"
+msgstr ""
+
+#: inc/options.php:335
+msgid "1/2"
+msgstr ""
+
+#: inc/options.php:336
+msgid "1/3"
+msgstr ""
+
+#: inc/options.php:337
+msgid "1/4"
+msgstr ""
+
+#: inc/options.php:338
+msgid "1/5"
+msgstr ""
+
+#: inc/options.php:339
+msgid "1/6"
+msgstr ""
+
+#: inc/options.php:340
+msgid "2/3"
+msgstr ""
+
+#: inc/options.php:341
+msgid "2/5"
+msgstr ""
+
+#: inc/options.php:342
+msgid "3/4"
+msgstr ""
+
+#: inc/options.php:343
+msgid "3/5"
+msgstr ""
+
+#: inc/options.php:344
+msgid "4/5"
+msgstr ""
+
+#: inc/options.php:345
+msgid "5/6"
+msgstr ""
+
+#: inc/options.php:350
+msgid "Column Content"
+msgstr ""
+
+#: inc/options.php:352
+msgid " Column Content"
+msgstr ""
+
+#: inc/options.php:353
+msgid "Insert the column's content"
+msgstr ""
+
+#: inc/options.php:369
+msgid "Column Shortcode"
+msgstr ""
+
+#: inc/options.php:381
+msgid "Custom Box Content"
+msgstr ""
+
+#: inc/options.php:383 inc/options.php:1446 inc/options.php:1687
+msgid "Content"
+msgstr ""
+
+#: inc/options.php:384
+msgid "Insert content for custom box."
+msgstr ""
+
+#: inc/options.php:388 inc/options.php:2257
+msgid "Background Image"
+msgstr ""
+
+#: inc/options.php:389
+msgid "Upload an image to display in background of custom box."
+msgstr ""
+
+#: inc/options.php:394
+msgid "Padding"
+msgstr ""
+
+#: inc/options.php:395
+msgid "Content Padding. eg:30px"
+msgstr ""
+
+#: inc/options.php:411
+msgid " Custom Box Shortcode"
+msgstr ""
+
+#: inc/options.php:429
+msgid "Set end time for countdown."
+msgstr ""
+
+#: inc/options.php:449
+msgid "Countdowns Shortcode"
+msgstr ""
+
+#: inc/options.php:466
+msgid "Top Icon"
+msgstr ""
+
+#: inc/options.php:472
+msgid "Left Icon"
+msgstr ""
+
+#: inc/options.php:473
+msgid "Insert text before the number."
+msgstr ""
+
+#: inc/options.php:480
+msgid "Left Text"
+msgstr ""
+
+#: inc/options.php:481
+msgid "Left text of counter num"
+msgstr ""
+
+#: inc/options.php:487
+msgid "Counter Num"
+msgstr ""
+
+#: inc/options.php:488
+msgid "The animated counter number."
+msgstr ""
+
+#: inc/options.php:493
+msgid "Right Text"
+msgstr ""
+
+#: inc/options.php:494
+msgid "Insert text after the number."
+msgstr ""
+
+#: inc/options.php:501
+msgid "Insert Title for counter."
+msgstr ""
+
+#: inc/options.php:506
+msgid "Display Border"
+msgstr ""
+
+#: inc/options.php:507
+msgid "Border for counter."
+msgstr ""
+
+#: inc/options.php:531
+msgid "Counter Shortcode"
+msgstr ""
+
+#: inc/options.php:545
+msgid "Divider Style"
+msgstr ""
+
+#: inc/options.php:546
+msgid "Select the Divider's Style."
+msgstr ""
+
+#: inc/options.php:549
+msgid "Shadow"
+msgstr ""
+
+#: inc/options.php:550 inc/options.php:2320
+msgid "Dashed"
+msgstr ""
+
+#: inc/options.php:551 inc/options.php:2319
+msgid "Dotted"
+msgstr ""
+
+#: inc/options.php:552
+msgid "Double Line"
+msgstr ""
+
+#: inc/options.php:553
+msgid "Double Dashed"
+msgstr ""
+
+#: inc/options.php:554
+msgid "Double Dotted"
+msgstr ""
+
+#: inc/options.php:555 inc/options.php:1161
+msgid "Image"
+msgstr ""
+
+#: inc/options.php:557
+msgid "Back to Top"
+msgstr ""
+
+#: inc/options.php:564
+msgid "In pixels. Default: 100%"
+msgstr ""
+
+#: inc/options.php:568
+msgid "Align"
+msgstr ""
+
+#: inc/options.php:569
+msgid "When the width is not 100%."
+msgstr ""
+
+#: inc/options.php:578 inc/options.php:1070
+msgid "Margin Top"
+msgstr ""
+
+#: inc/options.php:579
+msgid "Spacing above the separator. In pixels."
+msgstr ""
+
+#: inc/options.php:584 inc/options.php:1075
+msgid "Margin Bottom"
+msgstr ""
+
+#: inc/options.php:585
+msgid "Spacing under the separator. In pixels."
+msgstr ""
+
+#: inc/options.php:591 inc/options.php:2301
+msgid "Border Size"
+msgstr ""
+
+#: inc/options.php:592
+msgid "In pixels (px), eg: 1px. "
+msgstr ""
+
+#: inc/options.php:596 inc/options.php:1037 inc/options.php:1631
+#: inc/options.php:2201 inc/options.php:2308
+msgid "Border Color"
+msgstr ""
+
+#: inc/options.php:597
+msgid "Set the border color."
+msgstr ""
+
+#: inc/options.php:621
+msgid "Divider Shortcode"
+msgstr ""
+
+#: inc/options.php:636
+msgid "Dropcap Letter"
+msgstr ""
+
+#: inc/options.php:637
+msgid "Add the letter to be used as dropcap"
+msgstr ""
+
+#: inc/options.php:641 inc/options.php:2011
+msgid "Color"
+msgstr ""
+
+#: inc/options.php:642
+msgid ""
+"Controls the color of the dropcap letter. Leave blank for theme option "
+"selection."
+msgstr ""
+
+#: inc/options.php:646
+msgid "Boxed Dropcap"
+msgstr ""
+
+#: inc/options.php:647
+msgid "Choose to get a boxed dropcap."
+msgstr ""
+
+#: inc/options.php:653
+msgid "Box Radius"
+msgstr ""
+
+#: inc/options.php:654
+msgid "Choose the radius of the boxed dropcap. In pixels (px), eg: 1px"
+msgstr ""
+
+#: inc/options.php:670
+msgid "Dropcap Shortcode"
+msgstr ""
+
+#: inc/options.php:683
+msgid "Feature Box Style"
+msgstr ""
+
+#: inc/options.php:684
+msgid "Select the Feature Box's Style."
+msgstr ""
+
+#: inc/options.php:686
+msgid "Icon on Top of Title"
+msgstr ""
+
+#: inc/options.php:687
+msgid "Icon Beside Title and Content"
+msgstr ""
+
+#: inc/options.php:688
+msgid "Icon Beside Title"
+msgstr ""
+
+#: inc/options.php:689 inc/options.php:1792
+msgid "Boxed"
+msgstr ""
+
+#: inc/options.php:697
+msgid "Insert title for feature box."
+msgstr ""
+
+#: inc/options.php:703
+msgid "Title Font Size"
+msgstr ""
+
+#: inc/options.php:704
+msgid "Set font size for title of feature box."
+msgstr ""
+
+#: inc/options.php:708 inc/options.php:1846 inc/options.php:2195
+msgid "Title Color"
+msgstr ""
+
+#: inc/options.php:709
+msgid "Set color for title of feature box."
+msgstr ""
+
+#: inc/options.php:713
+msgid "Icon Hover Animation"
+msgstr ""
+
+#: inc/options.php:714
+msgid "Select the Icon's Animation."
+msgstr ""
+
+#: inc/options.php:726 inc/options.php:1122 inc/options.php:1763
+msgid "Icon Size"
+msgstr ""
+
+#: inc/options.php:727
+msgid "Set size for icon of feature box."
+msgstr ""
+
+#: inc/options.php:731 inc/options.php:1128 inc/options.php:1216
+#: inc/options.php:1768
+msgid "Icon Color"
+msgstr ""
+
+#: inc/options.php:732
+msgid "Set color for icon of feature box."
+msgstr ""
+
+#: inc/options.php:736
+msgid "Icon Border Color"
+msgstr ""
+
+#: inc/options.php:737
+msgid "Set border color for icon of feature box."
+msgstr ""
+
+#: inc/options.php:742
+msgid "Icon Border Width"
+msgstr ""
+
+#: inc/options.php:743
+msgid "Set border width for icon of feature box."
+msgstr ""
+
+#: inc/options.php:749
+msgid "Flip Icon"
+msgstr ""
+
+#: inc/options.php:750
+msgid "Choose to flip the icon of feature box."
+msgstr ""
+
+#: inc/options.php:752 inc/options.php:1918 inc/options.php:2317
+msgid "None"
+msgstr ""
+
+#: inc/options.php:753
+msgid "Horizontal"
+msgstr ""
+
+#: inc/options.php:754
+msgid "Vertical"
+msgstr ""
+
+#: inc/options.php:761
+msgid "Spinning Icon"
+msgstr ""
+
+#: inc/options.php:762
+msgid "Choose to spin the icon of feature box."
+msgstr ""
+
+#: inc/options.php:768 inc/options.php:1229 inc/options.php:1656
+#: inc/options.php:1773
+msgid "Icon Circle Background Color"
+msgstr ""
+
+#: inc/options.php:769
+msgid "Set background for icon circle of feature box."
+msgstr ""
+
+#: inc/options.php:775
+msgid "Icon Alignment"
+msgstr ""
+
+#: inc/options.php:776
+msgid "Set alignment for style2/style3 of feature box."
+msgstr ""
+
+#: inc/options.php:786
+msgid "Icon Circle"
+msgstr ""
+
+#: inc/options.php:787
+msgid "Choose to display icon of feature box in circle."
+msgstr ""
+
+#: inc/options.php:794
+msgid "Icon Image"
+msgstr ""
+
+#: inc/options.php:795
+msgid "To upload your own icon image, remember to deselect icon above."
+msgstr ""
+
+#: inc/options.php:800
+msgid "Icon Image Width"
+msgstr ""
+
+#: inc/options.php:801
+msgid ""
+"If using custom icon image, set icon image width. In percentage of pixels "
+"(px), eg: 1px."
+msgstr ""
+
+#: inc/options.php:806
+msgid "Icon Image Height"
+msgstr ""
+
+#: inc/options.php:807
+msgid ""
+"If using custom icon image, set icon image height. In percentage of pixels "
+"(px), eg: 1px."
+msgstr ""
+
+#: inc/options.php:814
+msgid "Link URL"
+msgstr ""
+
+#: inc/options.php:815
+msgid "Set link for feature box, eg: http://example.com."
+msgstr ""
+
+#: inc/options.php:820 inc/options.php:1173
+msgid "Link Target"
+msgstr ""
+
+#: inc/options.php:821 inc/options.php:1174
+msgid "_self = open in same window _blank = open in new window."
+msgstr ""
+
+#: inc/options.php:823 inc/options.php:1176
+msgid "_blank"
+msgstr ""
+
+#: inc/options.php:824 inc/options.php:1177
+msgid "_self"
+msgstr ""
+
+#: inc/options.php:831
+msgid "Link Text"
+msgstr ""
+
+#: inc/options.php:832
+msgid ""
+"Insert link text for feature box. It would not display if you leave it as "
+"blank."
+msgstr ""
+
+#: inc/options.php:836
+msgid "Link Color"
+msgstr ""
+
+#: inc/options.php:837
+msgid "Set color for link of feature box."
+msgstr ""
+
+#: inc/options.php:841
+msgid "Content Color"
+msgstr ""
+
+#: inc/options.php:842
+msgid "Set color for content of feature box."
+msgstr ""
+
+#: inc/options.php:846
+msgid "Set box background color for Boxed Style."
+msgstr ""
+
+#: inc/options.php:847
+msgid "For Boxed Style"
+msgstr ""
+
+#: inc/options.php:863 inc/options.php:981 inc/options.php:1318
+msgid "Your Content Goes Here"
+msgstr ""
+
+#: inc/options.php:865
+msgid "Feature Box Content"
+msgstr ""
+
+#: inc/options.php:870
+msgid "Feature Box Shortcode"
+msgstr ""
+
+#: inc/options.php:887
+msgid "Direction"
+msgstr ""
+
+#: inc/options.php:888
+msgid "Select flip directioon."
+msgstr ""
+
+#: inc/options.php:890
+msgid "horizontal"
+msgstr ""
+
+#: inc/options.php:891
+msgid "vertical"
+msgstr ""
+
+#: inc/options.php:897
+msgid "Front Container Paddings"
+msgstr ""
+
+#: inc/options.php:898
+msgid "Set paddings for front container of flip box."
+msgstr ""
+
+#: inc/options.php:903 inc/options.php:926
+msgid "Front Background Color"
+msgstr ""
+
+#: inc/options.php:904
+msgid "Set background color for front container of flip box."
+msgstr ""
+
+#: inc/options.php:912
+msgid "Front Content"
+msgstr ""
+
+#: inc/options.php:914
+msgid "Front content."
+msgstr ""
+
+#: inc/options.php:915
+msgid "Insert content for front container of flip box."
+msgstr ""
+
+#: inc/options.php:920
+msgid "Back Container Paddings"
+msgstr ""
+
+#: inc/options.php:921
+msgid "Set paddings for back container of flip box."
+msgstr ""
+
+#: inc/options.php:927
+msgid "Set background color for back container of flip box."
+msgstr ""
+
+#: inc/options.php:936
+msgid "Back Content"
+msgstr ""
+
+#: inc/options.php:938
+msgid "Back Content."
+msgstr ""
+
+#: inc/options.php:939
+msgid "Insert content for back container of flip box."
+msgstr ""
+
+#: inc/options.php:956
+msgid "Flip Box Shortcode"
+msgstr ""
+
+#: inc/options.php:971
+msgid "Set background color for highlight item."
+msgstr ""
+
+#: inc/options.php:983
+msgid "Content to Higlight"
+msgstr ""
+
+#: inc/options.php:984
+msgid "Insert content to highlight."
+msgstr ""
+
+#: inc/options.php:1001
+msgid "Highlight Shortcode"
+msgstr ""
+
+#: inc/options.php:1033
+msgid "Font Color"
+msgstr ""
+
+#: inc/options.php:1042 inc/options.php:2017
+msgid "Text Align"
+msgstr ""
+
+#: inc/options.php:1048
+msgid "Font Weight"
+msgstr ""
+
+#: inc/options.php:1065 inc/options.php:2090
+msgid "Font Size"
+msgstr ""
+
+#: inc/options.php:1099
+msgid "Heading Shortcode"
+msgstr ""
+
+#: inc/options.php:1123
+msgid "Set text size for item."
+msgstr ""
+
+#: inc/options.php:1129 inc/options.php:1769
+msgid "Set color for icon."
+msgstr ""
+
+#: inc/options.php:1146
+msgid "Icon Shortcode"
+msgstr ""
+
+#: inc/options.php:1162 inc/options.php:1496
+msgid "Upload an image to display."
+msgstr ""
+
+#: inc/options.php:1167
+msgid "Image Link URL"
+msgstr ""
+
+#: inc/options.php:1168 inc/options.php:1502
+msgid "Add the URL the picture will link to, ex: http://example.com."
+msgstr ""
+
+#: inc/options.php:1196
+msgid "Image Frame Shortcode"
+msgstr ""
+
+#: inc/options.php:1217
+msgid "Set color fo list icon."
+msgstr ""
+
+#: inc/options.php:1221
+msgid "Icon Boxed"
+msgstr ""
+
+#: inc/options.php:1222
+msgid "Choose to set icon boxed."
+msgstr ""
+
+#: inc/options.php:1230
+msgid "Set background color for list icon."
+msgstr ""
+
+#: inc/options.php:1234
+msgid "Boxed Shape"
+msgstr ""
+
+#: inc/options.php:1235
+msgid "Choose boxed shape for list icon."
+msgstr ""
+
+#: inc/options.php:1238
+msgid "Circle"
+msgstr ""
+
+#: inc/options.php:1242
+msgid "Item Border"
+msgstr ""
+
+#: inc/options.php:1243
+msgid "Choose to display item border for list."
+msgstr ""
+
+#: inc/options.php:1251
+msgid "Item Size"
+msgstr ""
+
+#: inc/options.php:1252
+msgid "Set text font size for item."
+msgstr ""
+
+#: inc/options.php:1269
+msgid "List items"
+msgstr ""
+
+#: inc/options.php:1274
+msgid "List Shortcode"
+msgstr ""
+
+#: inc/options.php:1288
+msgid "Modal Anchor Text"
+msgstr ""
+
+#: inc/options.php:1289
+msgid "Insert anchor text for the modal."
+msgstr ""
+
+#: inc/options.php:1294
+msgid "Modal Heading"
+msgstr ""
+
+#: inc/options.php:1295
+msgid "Insert heading text for the modal."
+msgstr ""
+
+#: inc/options.php:1299
+msgid "Size Of Modal"
+msgstr ""
+
+#: inc/options.php:1300
+msgid "Select the modal window size."
+msgstr ""
+
+#: inc/options.php:1303
+msgid "Middle"
+msgstr ""
+
+#: inc/options.php:1310
+msgid "Show Footer"
+msgstr ""
+
+#: inc/options.php:1311
+msgid "Choose to show the modal footer with close button."
+msgstr ""
+
+#: inc/options.php:1313
+msgid "yes"
+msgstr ""
+
+#: inc/options.php:1314
+msgid "no"
+msgstr ""
+
+#: inc/options.php:1320
+msgid "Contents of Modal"
+msgstr ""
+
+#: inc/options.php:1321
+msgid "Add your content to be displayed in modal."
+msgstr ""
+
+#: inc/options.php:1337
+msgid "Modal Shortcode"
+msgstr ""
+
+#: inc/options.php:1351
+msgid "Popover Heading"
+msgstr ""
+
+#: inc/options.php:1352
+msgid "Insert heading text of the popover."
+msgstr ""
+
+#: inc/options.php:1357
+msgid "Triggering Text"
+msgstr ""
+
+#: inc/options.php:1358
+msgid "Content that will trigger the popover."
+msgstr ""
+
+#: inc/options.php:1365
+msgid "Contents Inside Popover"
+msgstr ""
+
+#: inc/options.php:1366
+msgid "Text to be displayed inside the popover."
+msgstr ""
+
+#: inc/options.php:1371
+msgid "Popover Trigger Method"
+msgstr ""
+
+#: inc/options.php:1372
+msgid "Choose mouse action to trigger popover."
+msgstr ""
+
+#: inc/options.php:1374 inc/options.php:1440
+msgid "Click"
+msgstr ""
+
+#: inc/options.php:1375 inc/options.php:1439
+msgid "Hover"
+msgstr ""
+
+#: inc/options.php:1380
+msgid "Popover Position"
+msgstr ""
+
+#: inc/options.php:1381
+msgid "Choose the display position of the popover."
+msgstr ""
+
+#: inc/options.php:1383 inc/options.php:1428 inc/options.php:1648
+msgid "Top"
+msgstr ""
+
+#: inc/options.php:1384 inc/options.php:1429 inc/options.php:1649
+msgid "Bottom"
+msgstr ""
+
+#: inc/options.php:1404
+msgid "Popover Shortcode"
+msgstr ""
+
+#: inc/options.php:1420
+msgid "Tooltip Text"
+msgstr ""
+
+#: inc/options.php:1421
+msgid "Insert the text that displays in the tooltip"
+msgstr ""
+
+#: inc/options.php:1425
+msgid "Tooltip Position"
+msgstr ""
+
+#: inc/options.php:1426
+msgid "Choose the display position."
+msgstr ""
+
+#: inc/options.php:1436
+msgid "Tooltip Trigger"
+msgstr ""
+
+#: inc/options.php:1437
+msgid "Choose action to trigger the tooltip."
+msgstr ""
+
+#: inc/options.php:1447
+msgid "Insert the text that will activate the tooltip hover"
+msgstr ""
+
+#: inc/options.php:1463
+msgid "Tooltip Shortcode"
+msgstr ""
+
+#: inc/options.php:1478 inc/options.php:1897
+msgid "Name"
+msgstr ""
+
+#: inc/options.php:1479
+msgid "Insert the name of the person."
+msgstr ""
+
+#: inc/options.php:1485
+msgid "Insert the title of the person"
+msgstr ""
+
+#: inc/options.php:1490
+msgid "Profile Description"
+msgstr ""
+
+#: inc/options.php:1491
+msgid "Enter the content to be displayed"
+msgstr ""
+
+#: inc/options.php:1495
+msgid "Picture"
+msgstr ""
+
+#: inc/options.php:1501
+msgid "Picture Link URL"
+msgstr ""
+
+#: inc/options.php:1507
+msgid "Picture Border Size"
+msgstr ""
+
+#: inc/options.php:1508
+msgid "In pixels (px), ex: 1px. Leave blank for theme option selection."
+msgstr ""
+
+#: inc/options.php:1512
+msgid "Picture Border Color"
+msgstr ""
+
+#: inc/options.php:1513
+msgid ""
+"Controls the picture's border color. Leave blank for theme option selection."
+msgstr ""
+
+#: inc/options.php:1518
+msgid "Picture Border Radius"
+msgstr ""
+
+#: inc/options.php:1519
+msgid ""
+"Choose the border radius of the person image. In pixels (px), ex: 1px, or "
+"\"round\".  Leave blank for theme option selection."
+msgstr ""
+
+#: inc/options.php:1524
+msgid "Social Icon Box Radius"
+msgstr ""
+
+#: inc/options.php:1525
+msgid ""
+"Choose the border radius of the boxed icons. In pixels (px), ex: 1px, or "
+"\"round\". Leave blank for theme option selection."
+msgstr ""
+
+#: inc/options.php:1530
+msgid "Social Icon Custom Colors"
+msgstr ""
+
+#: inc/options.php:1531
+msgid ""
+"Controls the Icon's border color. Leave blank for theme option selection."
+msgstr ""
+
+#: inc/options.php:1535
+msgid "Icon1"
+msgstr ""
+
+#: inc/options.php:1542
+msgid "Link1 "
+msgstr ""
+
+#: inc/options.php:1543
+msgid "The Icon1 Link "
+msgstr ""
+
+#: inc/options.php:1547
+msgid "Icon2"
+msgstr ""
+
+#: inc/options.php:1554
+msgid "Link2 "
+msgstr ""
+
+#: inc/options.php:1555
+msgid "The Icon2 Link "
+msgstr ""
+
+#: inc/options.php:1559
+msgid "Icon3"
+msgstr ""
+
+#: inc/options.php:1566
+msgid "Link3 "
+msgstr ""
+
+#: inc/options.php:1567
+msgid "The Icon3 Link "
+msgstr ""
+
+#: inc/options.php:1571
+msgid "Icon4"
+msgstr ""
+
+#: inc/options.php:1578
+msgid "Link4"
+msgstr ""
+
+#: inc/options.php:1579
+msgid "The Icon4 Link "
+msgstr ""
+
+#: inc/options.php:1583
+msgid "Icon5"
+msgstr ""
+
+#: inc/options.php:1590
+msgid "Link5"
+msgstr ""
+
+#: inc/options.php:1591
+msgid "The Icon5 Link "
+msgstr ""
+
+#: inc/options.php:1607
+msgid "Person Shortcode"
+msgstr ""
+
+#: inc/options.php:1622
+msgid "Select style for promo box."
+msgstr ""
+
+#: inc/options.php:1624
+msgid "normal"
+msgstr ""
+
+#: inc/options.php:1625
+msgid "boxed"
+msgstr ""
+
+#: inc/options.php:1632
+msgid "Set color for highlight border of promo box."
+msgstr ""
+
+#: inc/options.php:1638
+msgid "Set width for highlight border of promo box."
+msgstr ""
+
+#: inc/options.php:1643
+msgid "Border Position"
+msgstr ""
+
+#: inc/options.php:1644
+msgid "Choose position for highlight border of promo box."
+msgstr ""
+
+#: inc/options.php:1657
+msgid "Set background color for promo box."
+msgstr ""
+
+#: inc/options.php:1670
+msgid "Inser text for button of promo box."
+msgstr ""
+
+#: inc/options.php:1675
+msgid "Button Link URL"
+msgstr ""
+
+#: inc/options.php:1676
+msgid "Inser link for button of promo box, eg: http://example.com."
+msgstr ""
+
+#: inc/options.php:1688
+msgid "Insert content for promo box."
+msgstr ""
+
+#: inc/options.php:1704
+msgid "Promo Box Shortcode"
+msgstr ""
+
+#: inc/options.php:1720 inc/options.php:1733
+msgid "Slider"
+msgstr ""
+
+#: inc/options.php:1751
+msgid "Title "
+msgstr ""
+
+#: inc/options.php:1752
+msgid "Insert the title for the social icon."
+msgstr ""
+
+#: inc/options.php:1764
+msgid "In pixels (px), eg: 13px."
+msgstr ""
+
+#: inc/options.php:1774
+msgid "Set background color for icon."
+msgstr ""
+
+#: inc/options.php:1779
+msgid "Icon 3D effect"
+msgstr ""
+
+#: inc/options.php:1780
+msgid "Display box shadow for icon."
+msgstr ""
+
+#: inc/options.php:1788
+msgid "Icon Box Radius Style"
+msgstr ""
+
+#: inc/options.php:1794
+msgid "Circle "
+msgstr ""
+
+#: inc/options.php:1800
+msgid "Icon Link URL"
+msgstr ""
+
+#: inc/options.php:1801
+msgid "Add the icon's url eg: http://example.com."
+msgstr ""
+
+#: inc/options.php:1817
+msgid "Social Shortcode"
+msgstr ""
+
+#: inc/options.php:1832
+msgid "Select tabs' style."
+msgstr ""
+
+#: inc/options.php:1835
+msgid "Simple Style Justified"
+msgstr ""
+
+#: inc/options.php:1837
+msgid "Button Style Justified"
+msgstr ""
+
+#: inc/options.php:1838
+msgid "Normal Style"
+msgstr ""
+
+#: inc/options.php:1839
+msgid "Normal Style Justified"
+msgstr ""
+
+#: inc/options.php:1840
+msgid "Vertical Style"
+msgstr ""
+
+#: inc/options.php:1841
+msgid "Vertical Style Right"
+msgstr ""
+
+#: inc/options.php:1847
+msgid "Set color for tab item's title."
+msgstr ""
+
+#: inc/options.php:1864
+msgid "Tab Items"
+msgstr ""
+
+#: inc/options.php:1865
+msgid "Insert tab items."
+msgstr ""
+
+#: inc/options.php:1871
+msgid "Tab Shortcode"
+msgstr ""
+
+#: inc/options.php:1887
+msgid "Style "
+msgstr ""
+
+#: inc/options.php:1888
+msgid "Select testimonial's style"
+msgstr ""
+
+#: inc/options.php:1891
+msgid "Box"
+msgstr ""
+
+#: inc/options.php:1898
+msgid "Name of testimonial's author."
+msgstr ""
+
+#: inc/options.php:1903
+msgid "Byline"
+msgstr ""
+
+#: inc/options.php:1904
+msgid "Byline of testimonial's author."
+msgstr ""
+
+#: inc/options.php:1908
+msgid "Avatar"
+msgstr ""
+
+#: inc/options.php:1909
+msgid "Avatar of testimonial's author."
+msgstr ""
+
+#: inc/options.php:1915
+msgid "Alignment"
+msgstr ""
+
+#: inc/options.php:1916
+msgid "Select the content's alignment."
+msgstr ""
+
+#: inc/options.php:1923 inc/options.php:1925
+msgid "Testimonial Content"
+msgstr ""
+
+#: inc/options.php:1926
+msgid "Insert content for testimonial."
+msgstr ""
+
+#: inc/options.php:1942
+msgid "Testimonial Shortcode"
+msgstr ""
+
+#: inc/options.php:1959 inc/options.php:1963
+msgid "Striped"
+msgstr ""
+
+#: inc/options.php:1960
+msgid "Choose to get the filled area striped."
+msgstr ""
+
+#: inc/options.php:1962
+msgid "None Striped"
+msgstr ""
+
+#: inc/options.php:1964
+msgid "Striped Animated"
+msgstr ""
+
+#: inc/options.php:1971
+msgid "Choose to set the progress bar as rounded."
+msgstr ""
+
+#: inc/options.php:1973
+msgid "On"
+msgstr ""
+
+#: inc/options.php:1974
+msgid "Off"
+msgstr ""
+
+#: inc/options.php:1980
+msgid "Display  Number"
+msgstr ""
+
+#: inc/options.php:1981
+msgid "Choose to diplay number for progress bar."
+msgstr ""
+
+#: inc/options.php:1989 inc/options.php:2068
+msgid "Percent"
+msgstr ""
+
+#: inc/options.php:1990
+msgid "Set percentage for progress bar. 0~100."
+msgstr ""
+
+#: inc/options.php:1996
+msgid "Text"
+msgstr ""
+
+#: inc/options.php:1997
+msgid "Insert text for progress bar."
+msgstr ""
+
+#: inc/options.php:2004
+msgid "Set height for progress bar."
+msgstr ""
+
+#: inc/options.php:2012
+msgid "Set background color for filled area in progress bar."
+msgstr ""
+
+#: inc/options.php:2018
+msgid "Set align for progress bar."
+msgstr ""
+
+#: inc/options.php:2027
+msgid "Text Position"
+msgstr ""
+
+#: inc/options.php:2028
+msgid "Choose text position for progress bar."
+msgstr ""
+
+#: inc/options.php:2030
+msgid "Text on Progress bars"
+msgstr ""
+
+#: inc/options.php:2031
+msgid "Text above progress bars"
+msgstr ""
+
+#: inc/options.php:2052
+msgid "Progress Shortcode"
+msgstr ""
+
+#: inc/options.php:2069
+msgid "From 1 to 100."
+msgstr ""
+
+#: inc/options.php:2077
+msgid "Insert title for piechart. It need to be short."
+msgstr ""
+
+#: inc/options.php:2083
+msgid "Size"
+msgstr ""
+
+#: inc/options.php:2084
+msgid "Set size for piechart."
+msgstr ""
+
+#: inc/options.php:2091
+msgid "Set font size for piechart title."
+msgstr ""
+
+#: inc/options.php:2096
+msgid "Filled Color"
+msgstr ""
+
+#: inc/options.php:2097
+msgid "Set color for filled area in piechart."
+msgstr ""
+
+#: inc/options.php:2102
+msgid "Unfilled Color"
+msgstr ""
+
+#: inc/options.php:2103
+msgid "Set color for unfilled area in piechart."
+msgstr ""
+
+#: inc/options.php:2116
+msgid "Piechart Shortcode"
+msgstr ""
+
+#: inc/options.php:2131
+msgid "Columns"
+msgstr ""
+
+#: inc/options.php:2132
+msgid "Number of items."
+msgstr ""
+
+#: inc/options.php:2135
+msgid "2 columns"
+msgstr ""
+
+#: inc/options.php:2136
+msgid "3 columns"
+msgstr ""
+
+#: inc/options.php:2137
+msgid "4 columns"
+msgstr ""
+
+#: inc/options.php:2138
+msgid "5 columns"
+msgstr ""
+
+#: inc/options.php:2157
+msgid "Timeline Items"
+msgstr ""
+
+#: inc/options.php:2158
+msgid "Insert timeline items."
+msgstr ""
+
+#: inc/options.php:2163
+msgid "Timeline Shortcode"
+msgstr ""
+
+#: inc/options.php:2182
+msgid "Insert title for panel."
+msgstr ""
+
+#: inc/options.php:2185
+msgid "Panel content."
+msgstr ""
+
+#: inc/options.php:2187
+msgid "Panel Content"
+msgstr ""
+
+#: inc/options.php:2188
+msgid "Insert content for panel."
+msgstr ""
+
+#: inc/options.php:2196
+msgid "Set color for panel title."
+msgstr ""
+
+#: inc/options.php:2202
+msgid "Set color for panel border."
+msgstr ""
+
+#: inc/options.php:2208
+msgid "Title Background Color"
+msgstr ""
+
+#: inc/options.php:2209
+msgid "Set background color for panel title."
+msgstr ""
+
+#: inc/options.php:2235
+msgid "Panel Shortcode"
+msgstr ""
+
+#: inc/options.php:2251
+msgid "Set background for section. Leave blank for transparent."
+msgstr ""
+
+#: inc/options.php:2258
+msgid "Upload an image to display in the background."
+msgstr ""
+
+#: inc/options.php:2262
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/options.php:2263
+msgid "Choose repeat style for the background image."
+msgstr ""
+
+#: inc/options.php:2266
+msgid "repeat"
+msgstr ""
+
+#: inc/options.php:2267
+msgid "repeat-x"
+msgstr ""
+
+#: inc/options.php:2268
+msgid "repeat-y"
+msgstr ""
+
+#: inc/options.php:2269
+msgid "no-repeat"
+msgstr ""
+
+#: inc/options.php:2270
+msgid "inherit"
+msgstr ""
+
+#: inc/options.php:2276 inc/options.php:2313
+msgid "Background Position"
+msgstr ""
+
+#: inc/options.php:2277
+msgid "Choose the postion of the background image."
+msgstr ""
+
+#: inc/options.php:2280
+msgid "top left"
+msgstr ""
+
+#: inc/options.php:2281
+msgid "top center"
+msgstr ""
+
+#: inc/options.php:2282
+msgid "top right"
+msgstr ""
+
+#: inc/options.php:2283
+msgid "center left"
+msgstr ""
+
+#: inc/options.php:2284
+msgid "center center"
+msgstr ""
+
+#: inc/options.php:2285
+msgid "center right"
+msgstr ""
+
+#: inc/options.php:2286
+msgid "bottom left"
+msgstr ""
+
+#: inc/options.php:2287
+msgid "bottom center"
+msgstr ""
+
+#: inc/options.php:2288
+msgid "bottom right"
+msgstr ""
+
+#: inc/options.php:2293
+msgid "Background Parallax"
+msgstr ""
+
+#: inc/options.php:2294
+msgid "Choose how the background image scrolls and responds."
+msgstr ""
+
+#: inc/options.php:2309
+msgid "Set border color for section."
+msgstr ""
+
+#: inc/options.php:2314
+msgid "Select border style for section"
+msgstr ""
+
+#: inc/options.php:2318
+msgid "Hidden"
+msgstr ""
+
+#: inc/options.php:2321
+msgid "Solid"
+msgstr ""
+
+#: inc/options.php:2322
+msgid "Double"
+msgstr ""
+
+#: inc/options.php:2323
+msgid "Groove"
+msgstr ""
+
+#: inc/options.php:2324
+msgid "Ridge"
+msgstr ""
+
+#: inc/options.php:2325
+msgid "Inset"
+msgstr ""
+
+#: inc/options.php:2326
+msgid "Outset"
+msgstr ""
+
+#: inc/options.php:2327
+msgid "Initial"
+msgstr ""
+
+#: inc/options.php:2328
+msgid "Inherit"
+msgstr ""
+
+#: inc/options.php:2336
+msgid "Padding Top"
+msgstr ""
+
+#: inc/options.php:2342
+msgid "Padding Bottom"
+msgstr ""
+
+#: inc/options.php:2348
+msgid "Padding Left"
+msgstr ""
+
+#: inc/options.php:2354
+msgid "Padding Right"
+msgstr ""
+
+#: inc/options.php:2359
+msgid "Contents in Container ?"
+msgstr ""
+
+#: inc/options.php:2360
+msgid "Put the content in container."
+msgstr ""
+
+#: inc/options.php:2366
+msgid "Section content."
+msgstr ""
+
+#: inc/options.php:2368
+msgid "Section Content"
+msgstr ""
+
+#: inc/options.php:2369
+msgid "Insert content for section."
+msgstr ""
+
+#: inc/options.php:2375
+msgid "Top Separator"
+msgstr ""
+
+#: inc/options.php:2378 inc/options.php:2398
+msgid "none"
+msgstr ""
+
+#: inc/options.php:2379 inc/options.php:2399
+msgid "triangle"
+msgstr ""
+
+#: inc/options.php:2380
+msgid "doublediagonal"
+msgstr ""
+
+#: inc/options.php:2381 inc/options.php:2400
+msgid "halfcircle"
+msgstr ""
+
+#: inc/options.php:2382 inc/options.php:2401
+msgid "bigtriangle"
+msgstr ""
+
+#: inc/options.php:2383 inc/options.php:2402
+msgid "bighalfcircle"
+msgstr ""
+
+#: inc/options.php:2384 inc/options.php:2403
+msgid "curl"
+msgstr ""
+
+#: inc/options.php:2385 inc/options.php:2404
+msgid "multitriangles"
+msgstr ""
+
+#: inc/options.php:2386
+msgid "roundedsplit"
+msgstr ""
+
+#: inc/options.php:2387 inc/options.php:2407
+msgid "boxes"
+msgstr ""
+
+#: inc/options.php:2388 inc/options.php:2408
+msgid "zigzag"
+msgstr ""
+
+#: inc/options.php:2389
+msgid "clouds"
+msgstr ""
+
+#: inc/options.php:2395
+msgid "Bottom Separator"
+msgstr ""
+
+#: inc/options.php:2405
+msgid "roundedcorners"
+msgstr ""
+
+#: inc/options.php:2406
+msgid "foldedcorner"
+msgstr ""
+
+#: inc/options.php:2409
+msgid "stamp"
+msgstr ""
+
+#: inc/options.php:2427
+msgid "Section Shortcode"
+msgstr ""
+
+#: shortcodes/class-countdowns.php:44
+msgid "Days"
+msgstr ""
+
+#: shortcodes/class-countdowns.php:52
+msgid "Hours"
+msgstr ""
+
+#: shortcodes/class-countdowns.php:60
+msgid "Minutes"
+msgstr ""
+
+#: shortcodes/class-countdowns.php:68
+msgid "Seconds"
+msgstr ""
